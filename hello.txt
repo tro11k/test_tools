@@ -2,11 +2,14 @@ Hello world!
 Hello world!
 Hello world!
 Hello world!
-<<<<<<< HEAD
+
+
+
+
 Hello world!
-=======
+
 Hello world!
+
 Hello world!
 Hello world!
 
->>>>>>> 7ad42a77fa5fc23ab7fa503b0ff5e5825e0f1a3e
